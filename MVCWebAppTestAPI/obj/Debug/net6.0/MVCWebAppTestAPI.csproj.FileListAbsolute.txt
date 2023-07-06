@@ -1,0 +1,131 @@
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\appsettings.json
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\MVCWebAppTestAPI.exe
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\MVCWebAppTestAPI.deps.json
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\MVCWebAppTestAPI.runtimeconfig.json
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\MVCWebAppTestAPI.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\MVCWebAppTestAPI.pdb
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.csproj.AssemblyReference.cache
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.AssemblyInfoInputs.cache
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.AssemblyInfo.cs
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.csproj.CoreCompileInputs.cache
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\scopedcss\bundle\MVCWebAppTestAPI.styles.css
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.csproj.CopyComplete
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.dll
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\refint\MVCWebAppTestAPI.dll
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.pdb
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.genruntimeconfig.cache
+C:\Projects\MVCWebAppTestAPI\obj\Debug\net6.0\ref\MVCWebAppTestAPI.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Projects\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\MVCWebAppTestAPI.exe
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\MVCWebAppTestAPI.deps.json
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\MVCWebAppTestAPI.runtimeconfig.json
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\MVCWebAppTestAPI.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\MVCWebAppTestAPI.pdb
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.csproj.AssemblyReference.cache
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.AssemblyInfoInputs.cache
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.AssemblyInfo.cs
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.csproj.CoreCompileInputs.cache
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.MVCWebAppTestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCWebAppTestAPI.props
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCWebAppTestAPI.props
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCWebAppTestAPI.props
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\scopedcss\bundle\MVCWebAppTestAPI.styles.css
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.csproj.CopyComplete
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\refint\MVCWebAppTestAPI.dll
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.pdb
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\MVCWebAppTestAPI.genruntimeconfig.cache
+C:\Users\tmsitshana\Documents\Work\Workspace\Test Candidate\MVCWebAppTestAPI\MVCWebAppTestAPI\obj\Debug\net6.0\ref\MVCWebAppTestAPI.dll
